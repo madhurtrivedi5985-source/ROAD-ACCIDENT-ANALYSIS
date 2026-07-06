@@ -4,7 +4,7 @@
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/Road_Accident_Dashboard.png)
+![Dashboard Preview](images/ROAD_ACCIDENT_ANALYSIS.png)
 
 
 ## 🎯 Objectives
