@@ -3,6 +3,7 @@
 # Dashboard Preview
 
 ## 📷 Dashboard Preview
+
 ![Dashboard Preview](images/Road_Accident_Dashboard.png)
 
 
